@@ -1,5 +1,4 @@
 # KNN_MovieRecommendations
-People who watched also watched
 
 This project creates something similar to 'people who watched ... also watched'
 
